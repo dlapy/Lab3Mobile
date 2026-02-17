@@ -1,0 +1,127 @@
+<resources>
+
+    <string name="app_name">30 дней финансовых советов</string>
+    <string name="main_title">Финансовые советы</string>
+    <string name="day_format">День %1$d</string>
+
+    <string name="tip1_title">Ведите учёт доходов и расходов</string>
+    <string name="tip1_short">Фиксируйте все поступления и траты в течение месяца.</string>
+    <string name="tip1_full">Создайте таблицу или используйте приложение для учёта финансов. Записывайте каждый доход и расход минимум один месяц, чтобы понять структуру бюджета.</string>
+
+    <string name="tip2_title">Разделите расходы на категории</string>
+    <string name="tip2_short">Жильё, еда, транспорт и другие категории.</string>
+    <string name="tip2_full">Разделите расходы на понятные категории — так будет проще анализировать траты и находить возможности для экономии.</string>
+
+    <string name="tip3_title">Ограничьте спонтанные покупки</string>
+    <string name="tip3_short">Установите лимит без обдумывания.</string>
+    <string name="tip3_full">Определите сумму, которую нельзя тратить без предварительного анализа. Это поможет избежать импульсивных решений.</string>
+
+    <string name="tip4_title">Используйте правило 30 дней</string>
+    <string name="tip4_short">Отложите решение о покупке.</string>
+    <string name="tip4_full">Перед крупной покупкой подождите 30 дней. Часто желание пропадает, а деньги остаются у вас.</string>
+
+    <string name="tip5_title">Откройте счёт для накоплений</string>
+    <string name="tip5_short">Откладывайте минимум 5% дохода.</string>
+    <string name="tip5_full">Переводите часть дохода на отдельный накопительный счёт сразу после его получения.</string>
+
+    <string name="tip6_title">Планируйте обязательные расходы</string>
+    <string name="tip6_short">Составьте список фиксированных платежей.</string>
+    <string name="tip6_full">Запишите все обязательные ежемесячные расходы и придерживайтесь плана.</string>
+
+    <string name="tip7_title">Откажитесь от одной лишней траты</string>
+    <string name="tip7_short">Направьте сэкономленные деньги в накопления.</string>
+    <string name="tip7_full">Откажитесь от регулярной необязательной траты и направляйте сэкономленные средства в резервный фонд.</string>
+
+    <string name="tip8_title">Сравнивайте цены</string>
+    <string name="tip8_short">Ищите лучшие предложения.</string>
+    <string name="tip8_full">Перед крупной покупкой сравните цены в разных магазинах — разница может быть существенной.</string>
+
+    <string name="tip9_title">Используйте кэшбэк разумно</string>
+    <string name="tip9_short">Только для запланированных покупок.</string>
+    <string name="tip9_full">Не тратьте больше ради бонусов. Используйте кэшбэк только для заранее запланированных покупок.</string>
+
+    <string name="tip10_title">Создайте фонд непредвиденных расходов</string>
+    <string name="tip10_short">Начните с одного месяца расходов.</string>
+    <string name="tip10_full">Сформируйте резерв, равный хотя бы одному месяцу обязательных расходов.</string>
+
+    <string name="tip11_title">Автоматизируйте платежи</string>
+    <string name="tip11_short">Избегайте просрочек и штрафов.</string>
+    <string name="tip11_full">Настройте автоплатежи по кредитам и коммунальным услугам.</string>
+
+    <string name="tip12_title">Проверьте подписки</string>
+    <string name="tip12_short">Отмените неиспользуемые сервисы.</string>
+    <string name="tip12_full">Регулярно проверяйте платные подписки и отключайте ненужные.</string>
+
+    <string name="tip13_title">Погашайте долги по методу лавины</string>
+    <string name="tip13_short">Сначала кредиты с высоким процентом.</string>
+    <string name="tip13_full">Начните с погашения долгов с самой высокой процентной ставкой, чтобы сократить переплату.</string>
+
+    <string name="tip14_title">Изучите условия банка</string>
+    <string name="tip14_short">Возможно, есть более выгодные тарифы.</string>
+    <string name="tip14_full">Проверьте условия вашего банковского счёта и сравните с другими предложениями.</string>
+
+    <string name="tip15_title">Пересматривайте тарифы</string>
+    <string name="tip15_short">Связь, интернет, страховка.</string>
+    <string name="tip15_full">Раз в квартал проверяйте тарифы на услуги и ищите более выгодные варианты.</string>
+
+    <string name="tip16_title">Изучайте инвестирование</string>
+    <string name="tip16_short">Начните с книги или курса.</string>
+    <string name="tip16_full">Освойте основы инвестирования для роста капитала.</string>
+
+    <string name="tip17_title">Определите финансовую цель</string>
+    <string name="tip17_short">Планируйте на 6–12 месяцев.</string>
+    <string name="tip17_full">Рассчитайте сумму и ежемесячные накопления для достижения цели.</string>
+
+    <string name="tip18_title">Сначала заплати себе</string>
+    <string name="tip18_short">Откладывайте перед тратами.</string>
+    <string name="tip18_full">Перед любыми расходами переведите фиксированную сумму в накопления.</string>
+
+    <string name="tip19_title">Создайте подушку безопасности</string>
+    <string name="tip19_short">3–6 месяцев обязательных расходов.</string>
+    <string name="tip19_full">Постепенно сформируйте резерв на случай потери дохода.</string>
+
+    <string name="tip20_title">Покупайте по акциям разумно</string>
+    <string name="tip20_short">Только действительно нужные товары.</string>
+    <string name="tip20_full">Следите за скидками, но покупайте только то, что планировали.</string>
+
+    <string name="tip21_title">Оптимизируйте крупные расходы</string>
+    <string name="tip21_short">Покупайте сезонные вещи со скидками.</string>
+    <string name="tip21_full">Покупайте сезонные товары в конце сезона со значительными скидками.</string>
+
+    <string name="tip22_title">Используйте налоговые вычеты</string>
+    <string name="tip22_short">Верните часть потраченных средств.</string>
+    <string name="tip22_full">Узнайте о доступных вам налоговых вычетах и подайте документы на возврат.</string>
+
+    <string name="tip23_title">Используйте приложения для бюджета</string>
+    <string name="tip23_short">Автоматизируйте анализ расходов.</string>
+    <string name="tip23_full">Приложения помогают автоматически категоризировать траты и строить графики.</string>
+
+    <string name="tip24_title">Составьте долгосрочный план</string>
+    <string name="tip24_short">Планируйте на 3–5 лет.</string>
+    <string name="tip24_full">Определите цели, сроки и ресурсы для достижения финансовой стабильности.</string>
+
+    <string name="tip25_title">Инвестируйте в образование</string>
+    <string name="tip25_short">Повышайте квалификацию.</string>
+    <string name="tip25_full">Обучение и развитие навыков увеличивают будущий доход.</string>
+
+    <string name="tip26_title">Избегайте импульсивных кредитов</string>
+    <string name="tip26_short">Сначала копите — потом покупайте.</string>
+    <string name="tip26_full">Не берите кредиты на необязательные покупки, если можно накопить.</string>
+
+    <string name="tip27_title">Пересматривайте план дважды в год</string>
+    <string name="tip27_short">Корректируйте цели при изменениях.</string>
+    <string name="tip27_full">Актуализируйте финансовые цели при изменении дохода или расходов.</string>
+
+    <string name="tip28_title">Повышайте финансовую грамотность</string>
+    <string name="tip28_short">Изучайте инфляцию и проценты.</string>
+    <string name="tip28_full">Понимание сложных процентов и диверсификации помогает принимать разумные решения.</string>
+
+    <string name="tip29_title">Создайте несколько источников дохода</string>
+    <string name="tip29_short">Снижайте финансовые риски.</string>
+    <string name="tip29_full">Дополнительный доход повышает финансовую устойчивость.</string>
+
+    <string name="tip30_title">Празднуйте финансовые победы</string>
+    <string name="tip30_short">Мотивируйте себя продолжать.</string>
+    <string name="tip30_full">Отмечайте достижение целей и прогресс — это помогает сохранять мотивацию.</string>
+
+</resources>
