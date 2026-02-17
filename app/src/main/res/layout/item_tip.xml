@@ -5,8 +5,7 @@
     android:layout_height="wrap_content"
     android:layout_margin="12dp"
     app:cardCornerRadius="16dp"
-    app:cardElevation="6dp"
-    app:cardUseCompatPadding="true">
+    app:cardElevation="6dp">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -18,16 +17,17 @@
             android:id="@+id/dayText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textStyle="bold"
             android:textSize="18sp"
+            android:textStyle="bold"
             android:layout_marginBottom="6dp"/>
 
         <TextView
-            android:id="@+id/descText"
+            android:id="@+id/titleText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="8dp"
-            android:textSize="16sp"/>
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"/>
 
         <ImageView
             android:id="@+id/imageView"
@@ -38,7 +38,7 @@
             android:layout_marginBottom="8dp"/>
 
         <TextView
-            android:id="@+id/fullText"
+            android:id="@+id/shortText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="15sp"/>

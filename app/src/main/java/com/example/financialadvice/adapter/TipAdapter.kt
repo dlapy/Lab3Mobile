@@ -16,8 +16,8 @@ class TipAdapter(private val tips: List<Tip>) :
 
     class TipViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val dayText: TextView = itemView.findViewById(R.id.dayText)
-        val fullText: TextView = itemView.findViewById(R.id.fullText)
-        val descText: TextView = itemView.findViewById(R.id.descText)
+        val titleText: TextView = itemView.findViewById(R.id.titleText)
+        val shortText: TextView = itemView.findViewById(R.id.shortText)
         val imageView: ImageView = itemView.findViewById(R.id.imageView)
     }
 
@@ -32,14 +32,16 @@ class TipAdapter(private val tips: List<Tip>) :
 
         holder.dayText.text =
             holder.itemView.context.getString(R.string.day_format, tip.day)
-        holder.fullText.setText(tip.fullDescResId)
-        holder.descText.setText(tip.shortDescResId)
+
+        holder.titleText.setText(tip.titleResId)
+        holder.shortText.setText(tip.shortDescResId)
         holder.imageView.setImageResource(tip.imageResId)
 
         holder.itemView.setOnClickListener {
-            val intent = Intent(holder.itemView.context, DetailActivity::class.java)
+            val context = holder.itemView.context
+            val intent = Intent(context, DetailActivity::class.java)
             intent.putExtra("TIP_INDEX", position)
-            holder.itemView.context.startActivity(intent)
+            context.startActivity(intent)
         }
     }
 
